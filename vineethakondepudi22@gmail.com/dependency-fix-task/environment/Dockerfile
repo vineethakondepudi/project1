@@ -4,6 +4,6 @@ WORKDIR /app
 
 COPY . /app
 
-RUN pip install numpy==1.21
+RUN pip install -r requirements.txt
 
 CMD ["python", "app.py"]
