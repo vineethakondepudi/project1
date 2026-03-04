@@ -1,0 +1,27 @@
+{
+    "id": "306a735f-9d9e-423d-9b51-f8b1cfb035e8",
+    "started_at": "2026-03-04T12:38:40.185029",
+    "finished_at": "2026-03-04T12:38:40.260136",
+    "n_total_trials": 1,
+    "stats": {
+        "n_trials": 1,
+        "n_errors": 1,
+        "evals": {
+            "oracle__adhoc": {
+                "n_trials": 0,
+                "n_errors": 1,
+                "metrics": [
+                    {
+                        "mean": 0.0
+                    }
+                ],
+                "reward_stats": {},
+                "exception_stats": {
+                    "NotImplementedError": [
+                        "vineethakondepudi22@gmail.com__PfL7HDm"
+                    ]
+                }
+            }
+        }
+    }
+}

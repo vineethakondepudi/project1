@@ -1,0 +1,27 @@
+{
+    "id": "b75a11fb-61c9-430f-b0b1-488c9e926bcc",
+    "started_at": "2026-03-04T12:54:10.282953",
+    "finished_at": "2026-03-04T12:54:10.348069",
+    "n_total_trials": 1,
+    "stats": {
+        "n_trials": 1,
+        "n_errors": 1,
+        "evals": {
+            "oracle__vineethakondepudi22@gmail.com": {
+                "n_trials": 0,
+                "n_errors": 1,
+                "metrics": [
+                    {
+                        "mean": 0.0
+                    }
+                ],
+                "reward_stats": {},
+                "exception_stats": {
+                    "NotImplementedError": [
+                        "dependency-fix-task__Q8RBkst"
+                    ]
+                }
+            }
+        }
+    }
+}
